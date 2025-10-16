@@ -4,7 +4,6 @@
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 > Conversor de moedas em JavaScript — projeto desenvolvido durante os estudos na **Rocketseat**, com interface simples e responsiva.
 
@@ -27,8 +26,7 @@ Acesse o projeto publicado no **GitHub Pages**:
 ├─ index.html
 ├─ styles.css
 ├─ script.js
-├─ README.md
-└─ LICENSE
+└─ README.md
 ```
 
 ---
@@ -67,11 +65,6 @@ Possíveis melhorias futuras:
 - buscar cotações atualizadas via API  
 - adicionar seleção automática de moeda padrão
 - Responsividade para outros tipos de plataformas além da web.
-
----
-
-## ⚖️ Licença
-Este projeto está licenciado sob a **MIT License** — veja o arquivo `LICENSE` para mais detalhes.
 
 ---
 
